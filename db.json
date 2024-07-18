@@ -1,9 +1,124 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "toys": [
+    {
+      "id": "1",
+      "toyname": "Barbie doll",
+      "available_toys": 26,
+      "description": "A brand-new barbie doll",
+      "price": " ksh 400",
+      "toy_picture": "https://m.media-amazon.com/images/I/71D1vTvgivL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "toyname": "Lightning mc queen",
+      "available_toys": 50,
+      "description": "A brand-new lightning McQueen car",
+      "price": " ksh 300",
+      "toy_picture": " https://m.media-amazon.com/images/I/71afYid4c5L.jpg"
+    },
+    {
+      "id": "3",
+      "toyname": "Aeroplane",
+      "available_toys": 48,
+      "description": "A play sizes brand new military plane,soliders bought separately",
+      "price": " ksh 700",
+      "toy_picture": "https://m.media-amazon.com/images/I/71rPo69+URL.jpg"
+    },
+    {
+      "id": "4",
+      "toyname": "Doctor set",
+      "available_toys": 200,
+      "description": "A  fully eauipped doctor set iclusive of;  a toy,stethoscope,toy needles,fake tablets and a oy first aid kit making your little one feel like a doctor",
+      "price": " ksh 1400",
+      "toy_picture": "https://media.istockphoto.com/id/1291538002/photo/childrens-medical-instruments-childrens-doctor-concept-pediatrics-toy-medical-devices-on-a.webp?b=1&s=170667a&w=0&k=20&c=V2OYX2qRjKSkk6Gmcx1nGctHh-zo6mctX8a2XCC9gi8=           "
+    },
+    {
+      "id": "5",
+      "toyname": "Monopoly game board",
+      "available_toys": 200,
+      "description": "A fast dealing property trading game  ",
+      "price": " ksh 1200",
+      "toy_picture": "https://api-beta-game.walmart.com/medias/media-000000000000817870-3-Default-WF-Default-Product?context=bWFzdGVyfHByb2Nlc3NlZHw2MjAwOHxpbWFnZS9qcGVnfGFEQTBMMmhtWWk4NU5qY3dOVGs1TlRRd056WTJMMjFsWkdsaFh6QXdNREF3TURBd01EQXdNRGd4TnpnM01GOHpYMFJsWm1GMWJIUXRWMFpmUkdWbVlYVnNkQzFRY205a2RXTjB8OGQ3NzYwMDVhY2RiZTk2ZDZkZWE2YTNmOTk3NTA2OGNlNGM3MjA2ZjE5YTc3MjA0ZWU5YmU0OTExNDk4MThlNg"
+    },
+    {
+      "id": "6",
+      "toyname": "stuffed bunny",
+      "available_toys": 200,
+      "description": "stitched stuffed bunny",
+      "price": " ksh 400",
+      "toy_picture": "https://images.unsplash.com/photo-1656871261611-981505128dbc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dG95cyUyMGtpZHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "7",
+      "toyname": "kitchen set",
+      "available_toys": 87,
+      "description": "A  fully equiped kitchen set for kids",
+      "price": " ksh 1550",
+      "toy_picture": "https://media.istockphoto.com/id/1309621009/photo/childrens-toy-kitchen-isolated-white.jpg?s=612x612&w=0&k=20&c=CJsi50la3eWFEVxg0aFNDZ0JcEr_u1f42o5oDLus8BI="
+    },
+    {
+      "id": "8",
+      "toyname": "speedo car collection",
+      "available_toys": 200,
+      "description": " a car collection with four colour changung cars",
+      "price": " ksh 1200",
+      "toy_picture": "https://i5.walmartimages.com/asr/a1d199f5-4fb4-4d4e-ac39-0236ed621a6c.0ac7911b3f4a14d059dc32dcb58e7af1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "id": "9",
+      "toyname": "Afro doll",
+      "available_toys": 75,
+      "description": "An african doll",
+      "price": " ksh 2400",
+      "toy_picture": "https://media.istockphoto.com/id/1142003496/photo/vintage-puppet-on-white-background.jpg?s=612x612&w=0&k=20&c=Ro8i6IM2bYmHmeR-x-1Qjbs4-SLLM8RidaB8v3oyxuk="
+    },
+    {
+      "id": "10",
+      "toyname": "LEGO CITY",
+      "available_toys": 99,
+      "description": "Enought blocks to build a city.",
+      "price": " ksh 3400",
+      "toy_picture": "https://media.istockphoto.com/id/1311516379/photo/aerial-top-view-of-a-drone-in-the-colorful-modern-city-comfort-town-kyiv-ukraine.webp?b=1&s=170667a&w=0&k=20&c=8gscqqZrm71kbW6MboPyqfWH3lfrqr0zLmTE9M3xKRg="
+    },
+    {
+      "id": "11",
+      "toyname": "cow plushie",
+      "available_toys": 20,
+      "description": "an adorable  30 cm cow plushie.",
+      "price": " ksh 400",
+      "toy_picture": "https://media.istockphoto.com/id/1148589238/photo/cow-plushie-doll-isolated-on-white-background-with-shadow-reflection-cow-plush-stuffed-puppet.webp?b=1&s=170667a&w=0&k=20&c=VinmmiLEy1duKRZScJZ9vzWNBDElHnYnkSLh6bUxqGI="
+    },
+    {
+      "id": "12",
+      "toyname": " octo plushie",
+      "available_toys": 69,
+      "description": "an adorable octo plush.",
+      "price": " ksh 2400",
+      "toy_picture": "https://images.unsplash.com/photo-1642346135244-371257dad1d0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8b2N0b3B1cyUyMHBsdXNofGVufDB8fDB8fHww"
+    },
+    {
+      "id": "13",
+      "toyname": "Bob the builder set",
+      "available_toys": 20,
+      "description": "A  bob the builder set",
+      "price": " ksh 1900",
+      "toy_picture": "https://images.thimbletoys.com/images/items/4581145a.jpg"
+    },
+    {
+      "id": "14",
+      "toyname": "spider man set",
+      "available_toys": 0,
+      "description": "A fully equpped spiderman set ",
+      "price": " ksh 2400",
+      "toy_picture": "https://images.unsplash.com/photo-1529335764857-3f1164d1cb24?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BpZGVybWFuJTIwdG95fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "15",
+      "toyname": "teddy bear",
+      "available_toys": 7,
+      "description": "A giant teddy bear",
+      "price": " ksh 900",
+      "toy_picture": "https://media.istockphoto.com/id/167154546/photo/cute-teddy-bear-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=S_OxbVEVVUjVmW8XdPEaWV267cU6EeKhAzcUVaQjYOM="
+    }
+  ]
 }
